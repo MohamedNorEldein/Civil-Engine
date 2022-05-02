@@ -1,6 +1,10 @@
 //
 // Created by m7md_nor on 10/27/2021.
 //
+/*
+*this file is just a simple alternative of graphic system just for debuging 
+* the actual draw calls will be defined in other file using opengl
+*/
 
 #include "../../header/civil_work.h"
 
